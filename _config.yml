@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "IVIELabs"
 title_separator          : "-"
 name                     : &name "IVIELabs" # &name is a YAML anchor which can be *referenced later
-description              : &description "A website created by Melissa Ivie for displaying her skills with technical documentation and Markdown.
+description              : &description "A website created by Melissa Ivie for displaying her skills with technical documentation and Markdown."
 url                      : "https://ivielabs.com" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "brianivie/ivielabs"
