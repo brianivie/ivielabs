@@ -12,6 +12,6 @@ and (for the Latest MacOS) here: https://github.com/adrianmihalko/ch340g-ch34g-c
 
 It is probably a good idea not to plug the Arduino into your computer until after you have installed the driver for it, otherwise the operating system will go looking for the driver on its own, and it has been my experience it doesn’t do a very good job finding one.  Once the driver is installed, plug in the USB cable to the Arduino and the computer should recognize it and use the correct driver.
 
-You will have completed this first step if you can upload and run the “Blink” program to your Arduino.  To do this first run the Arduino IDE:
+You will have completed this first step if you can upload and run the “Blink” program to your Arduino.  To do this, first run the Arduino IDE:
 
 
