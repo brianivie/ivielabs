@@ -1,0 +1,14 @@
+# Anyone Can Code
+
+## Start Your Imaginations:
+Get a cheap set of crayons (<$2), colored pencils (<$2) and water color paints (<$2) and paper (<$5) this weekend.  I want you to start creating, and imagining.  First I want you to draw a set of self portraits.  Make several.  Do them in different mediums (pencil sketch, pen cartoon, crayon stick-figure, colored pencil picasso, water color shapes and colors).  Do one of your family, of your grandparents, of your pet, of your friend.  Don't throw anything away!  Keep every mistake, mistep, trial that didn't turn out.  Using the camera on your phone take a picture or two of each of your creations.
+
+## Consider the Possibilities
+Go to https://summerofcode.withgoogle.com/  Click on "VIEW ORGANIZATIONS"  Don't feel overwhelmed.  Pick a couple of the organizations.  Write down and keep track of how you are making your choice  (We want to know this).  Is it the logo, the name, the one sentence that describes what the organization does?  When you click on the organization card more information will pop-up.  It will show you the technologies that this organization uses, and a set of topics that the software that this organization creates fits under.  There will also be a little bit more of a mission statement of what this organization does.  As time permits review several.  What technologies are common to the ones you like?  Do they have similar topics?  For the ones you are interested in, click the "LEARN MORE" button.  You will now see a paragraph talking about the organization and on the right there will be "VIEW IDEAS LIST"  Review the list of ideas for projects.  Are any of these something you would be interested in doing?  Don't worry about whether or not you can... you of course can... the question you should be asking yourself is, when people ask you what you chose to do for this years' summer of code, what did you choose to do/build and why?  Pick a couple of ideas.  Talk about them with your us and your other friends.
+
+## Select an Idea
+Select an idea that sounds like something fun to work on this summer:  This summer I am working on XXX for organization YYY.  XXX sounded like a really good idea, and I chose organization YYY because I liked their mission statement and where they were headed.
+
+## Prepare Your Application
+You can start applying on March 16.  We're want to help you with this process.  You could make a portfolio website that does a good job introducing yourself, and what your interests and talents are.  You could set up a blog where you share your experiences in this fun journey that is writing code.  We want to help you break your idea down into stories.  We want to help you get familiar with the topic that your code will be adding to as well as the technologies that you will be using.  Our goal is to move you past the "meh, this seems kind of interesting" to "I totally want to do this, and think it will be a blast."
+
