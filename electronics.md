@@ -1,4 +1,4 @@
-# Introduction to Arduino
+# Introduction to Arduino2
 
 ## Install the Arduino IDE and the CH340 USB Driver
 IDE stands for “Integrated Development Environment.”  It typically refers to a single program that connects to the compiler, linker, and other needed utility programs in the background to compile, link and run programs.  The Arduino IDE is written in Java, it is free (though they do ask for a donation), and it runs on Windows, Mac, and Linux operating systems.
