@@ -1,3 +1,3 @@
-#Stuff We Recommend on Amazon
+# Stuff We Recommend on Amazon
 
-#VR Stuff
+## VR Stuff
